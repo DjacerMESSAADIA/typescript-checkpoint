@@ -1,0 +1,13 @@
+{
+  "name": "typescript-checkpoint",
+  "version": "1.0.0",
+  "description": "TypeScript Vehicle Implementation",
+  "main": "vehicle.js",
+  "scripts": {
+    "start": "node vehicle.js",
+    "dev": "tsc vehicle.ts && node vehicle.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
